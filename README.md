@@ -1,4 +1,4 @@
-# sunvox_mirror
+# Sunvox Mirror
 This is Sunvox Mirror for AUR (Arch User Repository)
 
 I created this mirror to publish my own fast download and updated version from the original package on AUR
